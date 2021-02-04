@@ -19,13 +19,6 @@
   }
 }
 
-/* @media screen and (max-width: 768px) {
-  .footer {
-    padding-left: 16px;
-    padding-right: 16px;
-  }
-} */
-
 @media screen and (max-width: 767px) {
   .footer {
     padding-right: 0;
