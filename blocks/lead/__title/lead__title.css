@@ -9,6 +9,7 @@
   margin-right: auto;
   margin-bottom: 32px;
   margin-left: auto;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 767px) {

@@ -4,6 +4,7 @@
   max-width: 1184px;
   margin: 28px auto 56px;
   justify-content: space-between;
+  box-sizing: border-box;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {

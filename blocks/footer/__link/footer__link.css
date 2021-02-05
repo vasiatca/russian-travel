@@ -4,6 +4,7 @@
   font-size: 16px;
   line-height: 18px;
   padding-right: 18px;
+  box-sizing: border-box;
 }
 
 .footer__link:hover {

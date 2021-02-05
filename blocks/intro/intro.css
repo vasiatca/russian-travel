@@ -3,6 +3,7 @@
   padding-left: 100px;
   padding-right: 100px;
   margin-bottom: 92px;
+  box-sizing: border-box;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
